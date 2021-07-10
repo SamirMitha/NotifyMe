@@ -7,12 +7,12 @@ NotifyMe - Travel Timer is a Python library consisting of functions for predicti
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install notifyme_traveltimer
+pip install notifyme-traveltimer
 ```
 
 ## Usage
 ```python
-import notifyme-traveltimer as nt
+import notifyme_traveltimer as nt
 
 # Google Maps Functions
 [distance, traveltime] = nt.gmaps.fetch_distance('Ryerson University', 'University of Toronto', google_maps_api_key)

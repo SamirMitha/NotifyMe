@@ -1,4 +1,0 @@
-googlemaps
-pyowm
-tweepy
-pandas

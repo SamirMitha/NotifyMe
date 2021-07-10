@@ -6,7 +6,7 @@ NotifyMe - Travel Timer is a Python library consisting of functions for predicti
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install notifyme-traveltimer.
 
 ```bash
 pip install notifyme-traveltimer

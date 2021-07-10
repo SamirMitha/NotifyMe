@@ -12,7 +12,7 @@ pip install notifyme_traveltimer
 
 ## Usage
 ```python
-import notifyme_traveltimer as nt
+import notifyme-traveltimer as nt
 
 # Google Maps Functions
 [distance, traveltime] = nt.gmaps.fetch_distance('Ryerson University', 'University of Toronto', google_maps_api_key)

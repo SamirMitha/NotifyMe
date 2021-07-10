@@ -103,7 +103,7 @@ def fetch_directions(origins, destinations, gmaps_API_key):
     -------
     short_line: list
         A list of public transit agency line numbers
-    travel_time: list
+    agency: list
     	A list of public transit agency names
     """
 	gmaps = googlemaps.Client(key=gmaps_API_key)

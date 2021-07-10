@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="notifyme-traveltimer",
+    name="notifyme_traveltimer",
     version="1.0.0",
     license="MIT",
     author="Samir Mitha, Dumitru Cotorobai",

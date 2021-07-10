@@ -7,7 +7,7 @@ setuptools.setup(
     author="Samir Mitha, Dumitru Cotorobai",
     author_email="samir.mitha@gmail.ca",
     description="Functions for use real-time end to end travel and wait timing.",
-    url = "https://github.com/SamirMitha/NotifyMe"
+    url = "https://github.com/SamirMitha/NotifyMe",
     packages=setuptools.find_packages(),
     install_requires = [
         'googlemaps',

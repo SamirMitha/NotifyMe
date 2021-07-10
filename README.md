@@ -29,3 +29,6 @@ tweets = nt.twitter.tweet_short.ttc_tweet_short(tweepyCONSUMER_KEY, tweepyCONSUM
 
 tweets = nt.twitter.tweet_short.yrt_tweet_short(tweepyCONSUMER_KEY, tweepyCONSUMER_SECRET, tweepyACCESS_TOKEN, tweepyACCESS_TOKEN_SECRET)
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

@@ -1,11 +1,25 @@
-Metadata-Version: 1.2
+Metadata-Version: 2.1
 Name: notifyme-traveltimer
-Version: 1.0.1
+Version: 1.0.2
 Summary: Functions for use with end to end travel and wait timing.
 Home-page: https://github.com/SamirMitha/NotifyMe
 Author: Samir Mitha, Dumitru Cotorobai
 Author-email: samir.mitha@gmail.ca
 License: MIT
-Description: UNKNOWN
+Description: # NotifyMe - Travel Timer
+        
+        NotifyMe - Travel Timer is a Python library consisting of functions for predicting travel times. The included functions can fetch distance and directions between two addresses and includes weather multipliers and public transit delays scraped from Twitter for both the TTC and YRT in Toronto, Ontario.
+        
+        Contains:
+        * Google Maps Functions
+        	* fetch distance from distance matrix
+        	* fetch directions from public transit routes
+        * Open Weather Map Functions
+        	* fetch weather from particular location
+        	* fetch weather multiplier from weather conditions
+        * Twitter Functions
+        	* fetch public transit delays from TTC
+        	* fetch public transit delays from YRT
 Platform: UNKNOWN
 Requires-Python: >=3.8
+Description-Content-Type: text/markdown

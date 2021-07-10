@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: notifyme
+Version: 1.0.0
+Summary: Functions for use real-time end to end travel and wait timing.
+Home-page: https://github.com/SamirMitha/NotifyMe
+Author: Samir Mitha, Dumitru Cotorobai
+Author-email: samir.mitha@gmail.ca
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8

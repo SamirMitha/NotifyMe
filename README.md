@@ -1,5 +1,6 @@
 # NotifyMe - Travel Timer
 
+![PyPi Link](https://img.shields.io/badge/pypi-1.0.2-blue)
 NotifyMe - Travel Timer is a Python library consisting of functions for predicting travel times. The included functions can fetch distance and directions between two addresses and includes weather multipliers and public transit delays scraped from Twitter for both the TTC and YRT in Toronto, Ontario.
 
 ## Installation
